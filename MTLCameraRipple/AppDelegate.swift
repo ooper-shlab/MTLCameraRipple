@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MTLCameraRipple
 //
-//  Created by 開発 on 2019/05/25.
-//  Copyright © 2019 OOPer's. All rights reserved.
+//  Created by OOPer in cooperation with shlab.jp, on 2019/05/25.
+//
 //
 
 import UIKit
